@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=200&section=header&text=ODOM&fontSize=60&fontColor=00FF99&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=200&section=header&text=CHEANG_ODOM&fontSize=60&fontColor=00FF99&animation=fadeIn&fontAlignY=38"/>
 
 # 👨‍💻 CHEANG ODOM
 
