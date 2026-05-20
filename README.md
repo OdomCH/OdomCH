@@ -5,10 +5,10 @@
 # 👨‍💻 ODOM
 
 ```bash
-> Web Developer
-> IT Student
-> Vue • Flutter • AWS
-> Building cool things from Cambodia 🇰🇭
+ > Web Developer
+ > IT Student
+ > Vue • Flutter • AWS
+ > Building cool things from Cambodia 🇰🇭
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World%22);Frontend+Developer;Learning+Full+Stack+Development;Always+Shipping+Projects" />
