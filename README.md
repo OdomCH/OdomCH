@@ -1,39 +1,85 @@
-# Odom Cheang
-
-Software Engineer • Phnom Penh, Cambodia
-
-I build web and mobile applications. I care about performance, user experience, and code that other people can understand.
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF99&height=200&section=header&text=CHEANG_ODOM&fontSize=60&fontColor=00FF99&animation=fadeIn&fontAlignY=38"/>
+# 👨‍💻 ODOM
+```bash
+ > Web Developer
+ > IT Student
+ > Vue • Flutter • AWS
+ > Building cool things from Cambodia 🇰🇭
+```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World%22);Frontend+Developer;Learning+Full+Stack+Development;Always+Shipping+Projects" />
+</div>
 ---
-
-## Recent Work
-
-**Smart Campus System** — Full-stack platform for managing educational operations. Reduced administrative overhead by 60%. Vue.js, Firebase, AWS.
-
-**Pathfinding Visualizer** — Interactive algorithm visualization tool used for teaching. Real-time rendering at 60fps. Vue.js, Web Workers.
-
-**Client Web Projects** — Multiple production sites with 90+ Lighthouse scores. Responsive design, accessibility standards, performance optimization.
-
+# ⚡ SYSTEM STATUS
+```yaml
+Name: Odom
+Role: IT Student / Developer
+Location: Phnom Penh, Cambodia
+Focus:
+  - Frontend Development
+  - UI/UX Design
+  - Cloud & AWS
+  - Academic Projects
+Currently Learning:
+  - Vue.js
+  - Flutter
+  - Tailwind CSS
+  - Firebase
+```
 ---
-
-## Stack
-
-Vue.js • Flutter • JavaScript • Tailwind CSS • Node.js • AWS • Firebase • MySQL • Git
-
+# 🧰 TECH STACK
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,nodejs,firebase,mysql,git,github,vscode,figma,aws,flutter" />
+</div>
 ---
-
-## Approach
-
-I focus on solving actual problems over using trendy frameworks. I write tests where they add value. I optimize for maintainability because code gets read way more than it gets written. I ship working software and iterate based on real feedback.
-
+# 🚀 PROJECTS
+```bash
+[✔] Pathfinding Visualizer
+[✔] Smart Campus System
+[✔] Portfolio Website
+[✔] UI/UX Web Design Projects
+```
 ---
-
-## Contact
-
-**Email:** your.email@example.com  
-**LinkedIn:** linkedin.com/in/yourprofile  
-**Portfolio:** yourwebsite.com
-
+# 📊 GITHUB ANALYTICS
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</div>
 ---
+# 🔥 STREAK
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true"/>
+</div>
+---
+# 🌐 CONNECT
+<div align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</div>
+---
+<div align="center">
+```bash
+while(alive) {
+    eat();
+    code();
+    sleep();
+    repeat();
+}
+```
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,100:0D1117&height=120&section=footer"/>
+<!--
+**OdomCH/OdomCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=ffffff&hide_title=true)
+please design my readme to senior on IT
